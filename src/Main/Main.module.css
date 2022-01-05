@@ -1,0 +1,15 @@
+.mainBlock {
+    height: 100vh; /* vh = vision height */
+    background-color: #d2a3a3;
+}
+
+.text {
+    width: 300px;
+    background-color: #e07979;
+}
+
+.photo {
+    width: 300px;
+    height: 400px;
+    background-color: #d9a97d;
+}
