@@ -1,0 +1,32 @@
+.contactsBlock {
+    height: 100vh;
+    background-color: #ab7e36;
+}
+
+.contactsContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title {
+    background-color: #865959;
+}
+
+.inputForms {
+    width: 40%;
+    background-color: #516e49;
+    padding: 50px 10px;
+}
+
+.inputItems {
+    background-color: #9aa5cb;
+    margin-bottom: 5px;
+}
+
+.inputItem{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
