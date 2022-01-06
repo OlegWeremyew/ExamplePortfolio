@@ -1,0 +1,35 @@
+.project {
+    width: 350px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.projectWatch {
+    text-align: center;
+    min-height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url("https://avatars.mds.yandex.net/i?id=2ece441f6f243a632d695e7b2f77d164-5008775-images-thumbs&n=13") center no-repeat;
+    background-size: cover;
+}
+
+.projectWatchBlock {
+    background-color: #564f49;
+    padding: 5px 30px;
+}
+
+.textBlock {
+    background-color: #768c36;
+    padding-left: 15px;
+}
+
+.description {
+    margin: 5px 0 10px 0;
+    padding-top: 5px;
+    background-color: #e0c291;
+    width: 80%;
+    min-height: 70px;
+}
