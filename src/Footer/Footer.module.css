@@ -1,0 +1,43 @@
+.footerBlock {
+    background-color: #7f8f53;
+    height: 100vh;
+}
+
+.footerContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.title{
+    background-color: #564f49;
+}
+
+.footerBox{
+    display: flex;
+    width: 60%;
+    justify-content: space-between;
+    background-color: #9acbb5;
+}
+
+.grayBox {
+    background-color: #9b9999;
+    width: 12.5%;
+    min-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.greenBox{
+    background-color: #648d7f;
+    width: 12.5%;
+    min-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.copyright {
+    background-color: #8f4f4f;
+}
