@@ -1,6 +1,6 @@
 .footerBlock {
     background-color: #7f8f53;
-    height: 100vh;
+    height: 30vh;
 }
 
 .footerContainer {
@@ -15,27 +15,19 @@
 
 .footerBox{
     display: flex;
-    width: 60%;
+    width: 280px;
     justify-content: space-between;
     background-color: #9acbb5;
 }
 
-.grayBox {
+.Box {
     background-color: #9b9999;
-    width: 12.5%;
-    min-height: 50px;
+    width: 40px;
+    height: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.greenBox{
-    background-color: #648d7f;
-    width: 12.5%;
-    min-height: 50px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    border: 1px solid;
 }
 
 .copyright {

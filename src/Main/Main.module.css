@@ -1,5 +1,5 @@
 .mainBlock {
-    height: 100vh; /* vh = vision height */
+    min-height: 50vh;
     background-color: #d2a3a3;
 }
 

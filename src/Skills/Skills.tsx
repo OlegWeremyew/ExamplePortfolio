@@ -5,7 +5,7 @@ import Skill from "./Skill/Skill";
 
 const Skills = () => {
 
-    const description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci consequatu"
+    const description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci consequatuLorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci consequatu"
 
     return (
         <div className={style.skillBlock}>

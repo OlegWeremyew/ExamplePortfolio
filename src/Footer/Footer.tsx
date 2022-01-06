@@ -8,14 +8,11 @@ const Footer = () => {
             <div className={`${styleContainer.container} ${style.footerContainer}`}>
                 <h2 className={style.title}>Oleg Veremyev</h2>
                 <div className={style.footerBox}>
-                    <div className={style.grayBox}>1</div>
-                    <div className={style.greenBox}>2</div>
-                    <div className={style.grayBox}>3</div>
-                    <div className={style.greenBox}>4</div>
-                    <div className={style.grayBox}>5</div>
-                    <div className={style.greenBox}>6</div>
-                    <div className={style.grayBox}>7</div>
-                    <div className={style.greenBox}>8</div>
+                    <div className={style.Box}>1</div>
+                    <div className={style.Box}>2</div>
+                    <div className={style.Box}>3</div>
+                    <div className={style.Box}>4</div>
+
                 </div>
                 <div className={style.copyright}>
                     © 2022 All rights reserved

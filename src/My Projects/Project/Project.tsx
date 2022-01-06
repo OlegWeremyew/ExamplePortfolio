@@ -8,8 +8,8 @@ const Project = (props: any) => {
                 <div className={style.projectWatchBlock}>Watch</div>
             </div>
             <div className={style.textBlock}>
-                <span>Название проекта</span>
-                <div className={style.description}>Описание</div>
+                <span>Project name</span>
+                <div className={style.description}>Description</div>
             </div>
         </div>
     );
