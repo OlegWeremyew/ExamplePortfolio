@@ -1,5 +1,5 @@
 .remoteWorkBlock {
-    height: 20vh;
+    height: 30vh;
     background-color: #6ea999;
 }
 
@@ -10,7 +10,7 @@
     align-items: center;
 }
 
-.title{
+.title {
     background-color: #e3cea3;
 }
 

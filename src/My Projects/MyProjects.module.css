@@ -1,6 +1,5 @@
 .projectsBlock {
-    min-height: 30vh;
-    background-color: #27b281;
+    background-color: #1f1f20;
 }
 
 .projectsContainer {
@@ -10,15 +9,18 @@
 
 }
 
-.title{
-    background-color: #ec7676;
-}
-
 .projects {
-    border: 1px solid #5b0505;
+    border: 1px solid #b0b0b0;
     width: 100%;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
     box-sizing: border-box;
+    align-items: flex-start;
+}
+
+@media screen and (max-width: 890px) {
+    .projects {
+        justify-content: center;
+    }
 }

@@ -22,3 +22,9 @@
     flex-wrap: wrap;
     box-sizing: border-box;
 }
+
+@media (max-width: 640px) {
+    .skills {
+        justify-content: center;
+    }
+}

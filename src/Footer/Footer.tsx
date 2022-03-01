@@ -12,7 +12,6 @@ const Footer = () => {
                     <div className={style.Box}>2</div>
                     <div className={style.Box}>3</div>
                     <div className={style.Box}>4</div>
-
                 </div>
                 <div className={style.copyright}>
                     © 2022 All rights reserved
