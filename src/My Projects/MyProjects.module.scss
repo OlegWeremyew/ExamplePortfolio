@@ -1,0 +1,27 @@
+@import '../command/styles/SASS/variables';
+
+.projectsBlock {
+  background-color: $backgroundFirstColor;
+
+  .projectsContainer {
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+
+    .projects {
+      border: 1px solid #b0b0b0;
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      box-sizing: border-box;
+      align-items: flex-start;
+
+      @media screen and (max-width: 1255px) {
+        justify-content: center;
+      }
+
+    }
+  }
+}
+
